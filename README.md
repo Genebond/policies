@@ -1,8 +1,6 @@
-This repository and information will soon be put in a public archive. Existing documents are moved to https://www.idmanagement.gov/governance/fpkiarchive/.
-
-New documents will post to https://www.idmanagement.gov/governance/fpkiaudit/
-
-The website https://devicepki.idmanagement.gov/ will redirect to https://www.idmanagement.gov/governance/fpkiaudit/ around May 2023.
+This repository and information will soon be put in a private 
+will post to https://github.com/Genebond/Nmp/pull/1
+The website https://devicepki.idmanagement.gov/ will redirect to https://www.idmanagement.gov/governance/https://github.com/Genebond/Nmp/pull/1 MQ4AAIaMBMdibEGklxbQnSgwPBUcYk61P8VX5JgbNbC6jbGppp79LrGPX4G6ywXk March 27
 
 # Overview
 This repository is for the open development of an x509 Certificate Policy for the US Federal Government.  This repository supports the efforts to establish a new Public Trust Device Root and an issuing certification authority infrastructure focused on .gov and .mil websites.
